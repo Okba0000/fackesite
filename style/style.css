@@ -1,0 +1,50 @@
+body {
+	background: rgb(241, 241, 241);
+}
+#logo {
+	width: 100%;
+	height: 60px;
+}
+h1 {
+	background: red;
+	font-family: Andalus;
+	text-align: center;
+}
+#pers {
+	height: 40px;
+	width; 40px;
+	border-radius: 50%;
+}
+#name {
+	width: 50px;
+}
+#name:hover {
+	width: 100px;
+	background: blue;
+	color: white;
+	font-size: 18px;
+	font-family: DecoType Thuluth;
+}
+#submit {
+	font-family: DecoType Thuluth;
+	border: none;
+	padding: 10px 40px;
+	font-size; 16px;
+	text-align: center;
+	text-decoration; none;
+	display: inline-block;
+	outline: none;
+	border-radius: 5px;
+	background: blue;
+	color: white;
+	margin-right: 30px; 
+	margin-top: 30px; 
+}
+footer {
+	margin-top: 20px;
+	font-size: 5px;
+	text-align: center;
+}
+#main {
+	background-image: linear-gradient(to bottom right, red, yellow);
+}
